@@ -14,7 +14,7 @@
 
 | 基础交互 | 多种动画 |
 | :---: | :---: |
-| <img src="./p1.gif" width="350"> | <img src="./p2.gif" width="350"> |
+| <img src="./assets/p1.gif" width="350"> | <img src="./assets/p2.gif" width="350"> |
 
 The project was completed during the 23-24 fall and received a full score of 110. It was developed by a two-person team without using any demo provided by the school. The purpose is for learning and exchange, and it is not intended for direct replication. Hope this could help you!
 
@@ -42,7 +42,8 @@ It was developed by a two-person team. We implemented the game logic and UI **fr
 Please make sure to open the project correctly to load assets:
 1.  Open IntelliJ IDEA.
 2.  Select `File` -> `Open`.
-3.  **Select the `Project` folder** (the directory containing `src`) as the project path.
+3.  If you clone this repo:**Simply open it as a IDEA project**.
+4.  If you download using releases: **Select the `Project` folder** (the directory containing `src`) as the project path.
     *   *Path check:* If the game launches but images are missing, please double-check your working directory.
 
 ---

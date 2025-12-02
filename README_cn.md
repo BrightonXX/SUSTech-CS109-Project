@@ -14,7 +14,7 @@
 
 | 基础交互 | 掉落与消除动画 |
 | :---: | :---: |
-| <img src="./p1.gif" width="350"> | <img src="./p2.gif" width="350"> |
+| <img src="./assets/p1.gif" width="350"> | <img src="./assets/p2.gif" width="350"> |
 
 </div>
 
